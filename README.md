@@ -15,5 +15,5 @@ Michaelreeves. Add them into a list of your specific class.
 4. Using https://twitchtracker.com/statistics
 	1. Get the total by month from October 2019-2020 (located at the buttom). Either manually or via Selenium. (You can go further back in the year is you want to get more data.)
 	2. Make a plot showing the "Avg. concur. viwers" and "Active streamers"
-	3. Create a correlation between these.
+	3. Find a correlation between these.
 	4. Now predict this month November 2020 how many active streamers there will be shown in 8 days on the statistics.
